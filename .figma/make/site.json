@@ -1,0 +1,11 @@
+{
+  "title": "vercel 복사본",
+  "description": "Enables users to create custom apps easily without coding, streamlining development for beginners and professionals alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
